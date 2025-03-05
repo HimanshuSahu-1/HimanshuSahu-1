@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/hsahu8268sahu" target="blank"><img src="https://img.shields.io/twitter/follow/hsahu8268sahu?logo=twitter&style=for-the-badge" alt="hsahu8268sahu" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **BlockChain**
 - 💬 Ask me about **Mern**
 - 📫 How to reach me **hsahu8268@gmail.com**
 - ⚡ Fun fact **I think I'm funny**
