@@ -1,69 +1,138 @@
  [![MasterHead](https://pbs.twimg.com/media/DEK7kmzXYAAe1z-.jpg)](https://tse1.mm.bing.net/th?id=OIP.N1RAjyTYbbrA0kpARUDBVQHaEK&pid=Api&P=0&h=220)
 
 <h1 align="center">Hi 👋, I'm Himanshu Sahu</h1>
-<h3 align="center">A passionate Full Stack MERN Developer from India</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=himanshusahu-1&label=Profile%20views&color=0e75b6&style=flat" alt="himanshusahu-1" /> </p>
+<h3 align="center">Aspiring Network Security | Cloud Security | Cybersecurity Engineer</h3>
 
 <p align="center">
-  <a href="https://twitter.com/hsahu8268sahu" target="blank"><img src="https://img.shields.io/twitter/follow/hsahu8268sahu?logo=twitter&style=for-the-badge" alt="hsahu8268sahu" /></a>
+  <img src="https://komarev.com/ghpvc/?username=himanshusahu-1&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-- 🌱 I’m currently learning **Blockchain**
-- 💬 Ask me about **MERN stack**
-- 📫 How to reach me **hsahu8268@gmail.com**
-- ⚡ Fun fact **I think I'm funny**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/hsahu8268sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hsahu8268sahu" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/himanshu-sahu-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-sahu-" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/himanshusahu01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="himanshusahu01" height="30" width="40" /></a>
-  <a href="https://leetcode.com/hsahu8268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hsahu8268" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/himanshu-sahu-" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-</p>
+## 👨‍💻 About Me
+
+I am a passionate learner with strong interest in **network security, cloud security, and cybersecurity**. I actively practice through labs, projects, and self-study to build real-world skills in securing enterprise and cloud environments.
+
+I enjoy exploring new technologies, troubleshooting complex networks, and continuously improving my technical expertise.
+
+---
+
+## 🎯 Career Focus
+
+- 🌱 Learning enterprise networking & security concepts  
+- 🔐 Practicing firewall, VPN, and cloud security labs  
+- ☁️ Exploring AWS security & hybrid networks  
+- 📊 Building SOC & monitoring skills  
+- 🐍 Automating tasks using Python  
+
+---
+
+## 🛠️ Technical Skills
+
+### 🔹 Networking
+- TCP/IP, Subnetting, Routing
+- OSPF, EIGRP, STP, VLAN
+- WAN, NAT, PAT, VRF
+- Network Troubleshooting
+
+### 🔹 Network & Security
+- FortiGate & Palo Alto Firewalls (Lab Practice)
+- IPsec & SSL VPN
+- IDS / IPS Concepts
+- Email & Web Security (ESA, WSA)
+- Zero Trust & SASE (Basics)
+
+### 🔹 Cloud & Infrastructure
+- AWS VPC, IAM, EC2 (Hands-On)
+- Security Groups & NACL
+- Cloud VPN & Hybrid Connectivity
+- Logging & Monitoring
+
+### 🔹 SOC & Monitoring
+- SIEM Basics (Splunk)
+- Log Analysis
+- Incident Handling (Foundations)
+- Threat Detection (Beginner Level)
+
+### 🔹 Automation
+- Python Scripting
+- Network Automation Basics
+- API Integration (Introductory)
+
+---
+
+## 🧰 Tools & Platforms
+
+### 🔹 Networking & Security Tools
+- FortiGate Firewall  
+- Palo Alto Firewall  
+- Wireshark  
+- Nmap  
+- OpenVPN  
+
+### 🔹 Lab & Virtualization
+- Cisco Packet Tracer  
+- GNS3  
+- EVE-NG  
+- VMware  
+- VirtualBox  
+
+### 🔹 Operating Systems
+- Linux (Ubuntu, Kali)  
+- Windows  
+
+---
+
+## 📂 Hands-On Labs & Projects
+
+✔ Firewall Policy Configuration Labs  
+✔ Site-to-Site & Remote Access VPN Labs  
+✔ Secure AWS VPC Practice  
+✔ SIEM Log Monitoring Exercises  
+✔ Network Automation Scripts  
+✔ Email Security Setup Practice  
+
+All projects focus on learning-by-doing and real-world scenarios.
+
+---
+
+## 📚 Learning & Development
+
+- CCNP-Level Networking Preparation  
+- Cloud Security & AWS Practice Labs  
+- Multi-Vendor Firewall Training  
+- SOC Monitoring Practice  
+- Continuous Self-Learning  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshusahu-1&show_icons=true&locale=en&theme=tokyonight" alt="himanshusahu-1" />
-</p>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=himanshusahu-1&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshusahu-1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=himanshusahu-1&layout=compact&theme=tokyonight)
 
-
+---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshusahu-1&bg_color=0d1117&color=ffffff&line=5cf4e2&point=f2e1ff&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=himanshusahu-1&theme=tokyonight)
 
+---
+
+## 🤝 Open to Opportunities
+
+I am actively looking for **entry-level roles, internships, and trainee positions** in:
+
+- Network Security  
+- Cloud Security  
+- SOC / SIEM Operations  
+- Infrastructure Security  
+
+I am eager to learn, contribute, and grow with a strong technical team.
