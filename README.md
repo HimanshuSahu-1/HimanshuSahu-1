@@ -107,19 +107,12 @@
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=himanshusahu-1&show_icons=true&theme=tokyonight"
-    onerror="this.onerror=null;this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=himanshusahu-1&show_icons=true&theme=tokyonight';"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshusahu-1&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusahu-1&layout=compact&theme=tokyonight"
-    onerror="this.onerror=null;this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=himanshusahu-1&layout=compact&theme=tokyonight';"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshusahu-1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 ## 📈 Contribution Graph
 
 <p align="center">
