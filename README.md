@@ -112,20 +112,14 @@ All projects focus on learning-by-doing and real-world scenarios.
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=himanshusahu-1&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=himanshusahu-1&layout=compact&theme=tokyonight)
-
----
 
 ## 📈 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=himanshusahu-1&theme=tokyonight)
-
----
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshusahu-1&bg_color=0d1117&color=ffffff&line=5cf4e2&point=f2e1ff&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
+  
 ## 🤝 Open to Opportunities
 
 I am actively looking for **entry-level roles, internships, and trainee positions** in:
