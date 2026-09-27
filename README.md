@@ -36,12 +36,14 @@ Currently focused on strengthening my expertise in **Java, Spring Boot, Microser
 ## 🛠️ Technical Skills
 
 ### 🔹 Programming
+
 - Java 8 / 17
 - SQL
 - Object-Oriented Programming
 - Data Structures & Algorithms
 
 ### 🔹 Backend Development
+
 - Spring Boot
 - Spring MVC
 - Spring Security
@@ -51,6 +53,7 @@ Currently focused on strengthening my expertise in **Java, Spring Boot, Microser
 - Microservices
 
 ### 🔹 Messaging & Distributed Systems
+
 - Apache Kafka
 - Event-Driven Architecture
 - Saga Pattern
@@ -58,6 +61,7 @@ Currently focused on strengthening my expertise in **Java, Spring Boot, Microser
 - Distributed Systems
 
 ### 🔹 Databases
+
 - MySQL
 - SQL
 - Database Design
@@ -65,12 +69,14 @@ Currently focused on strengthening my expertise in **Java, Spring Boot, Microser
 - Hibernate / JPA
 
 ### 🔹 Security
+
 - Spring Security
 - JWT Authentication
 - OAuth 2.0
 - Role-Based Access Control (RBAC)
 
 ### 🔹 Cloud & DevOps
+
 - AWS EC2
 - AWS S3
 - AWS RDS
@@ -83,6 +89,7 @@ Currently focused on strengthening my expertise in **Java, Spring Boot, Microser
 - Maven
 
 ### 🔹 Testing & Development Tools
+
 - JUnit 5
 - Mockito
 - Postman
@@ -167,11 +174,31 @@ Currently focused on strengthening my expertise in **Java, Spring Boot, Microser
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshusahu-1&bg_color=0d1117&color=ffffff&line=5cf4e2&point=f2e1ff&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshusahu-1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusahu-1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 💻 What I Build
+
+I use GitHub to build and share projects related to:
+
+- Java Backend Development
+- Spring Boot
+- Microservices
+- REST APIs
+- Apache Kafka
+- Database Systems
+- Authentication & Authorization
+- System Design
+- Cloud & DevOps
 
 ---
 
@@ -190,15 +217,12 @@ I am looking forward to working on challenging backend systems, improving my eng
 
 ---
 
-## 💻 GitHub
+## 🚀 Goals
 
-I use GitHub to build and share projects related to:
-
-- Java Backend Development
-- Spring Boot
-- Microservices
-- REST APIs
-- Apache Kafka
-- Database Systems
-- System Design
-- Cloud & DevOps
+- Build production-ready Java backend applications
+- Strengthen Microservices and distributed-system knowledge
+- Improve System Design skills
+- Build scalable REST APIs
+- Gain deeper experience with Apache Kafka
+- Improve AWS and cloud deployment skills
+- Continue contributing to open-source projects
