@@ -6,12 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=himanshusahu-1&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/himanshu-sahu-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -196,10 +190,15 @@ I am looking forward to working on challenging backend systems, improving my eng
 
 ---
 
-## 📫 Connect With Me
+## 💻 GitHub
 
-<p align="left">
-  <a href="https://linkedin.com/in/himanshu-sahu-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+I use GitHub to build and share projects related to:
+
+- Java Backend Development
+- Spring Boot
+- Microservices
+- REST APIs
+- Apache Kafka
+- Database Systems
+- System Design
+- Cloud & DevOps
