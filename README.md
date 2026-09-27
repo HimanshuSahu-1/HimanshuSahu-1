@@ -1,7 +1,6 @@
- [![MasterHead](https://pbs.twimg.com/media/DEK7kmzXYAAe1z-.jpg)](https://tse1.mm.bing.net/th?id=OIP.N1RAjyTYbbrA0kpARUDBVQHaEK&pid=Api&P=0&h=220)
+ # Hi 👋, I'm Himanshu Sahu
 
-<h1 align="center">Hi 👋, I'm Himanshu Sahu</h1>
-<h3 align="center">Aspiring Network Security | Cloud Security | Cybersecurity Engineer</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | Microservices | AWS</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshusahu-1&label=Profile%20views&color=0e75b6&style=flat" />
@@ -17,116 +16,190 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate learner with strong interest in **network security, cloud security, and cybersecurity**. I actively practice through labs, projects, and self-study to build real-world skills in securing enterprise and cloud environments.
+I am a **Java Backend Developer** focused on building scalable, secure, and reliable backend applications using **Java, Spring Boot, Microservices, REST APIs, and SQL databases**.
 
-I enjoy exploring new technologies, troubleshooting complex networks, and continuously improving my technical expertise.
+I enjoy designing backend systems, developing APIs, working with distributed architectures, implementing authentication and authorization, and optimizing application performance.
+
+Currently focused on strengthening my expertise in **Java, Spring Boot, Microservices, Kafka, System Design, AWS, and backend development best practices**.
 
 ---
 
 ## 🎯 Career Focus
 
-- 🌱 Learning enterprise networking & security concepts  
-- 🔐 Practicing firewall, VPN, and cloud security labs  
-- ☁️ Exploring AWS security & hybrid networks  
-- 📊 Building SOC & monitoring skills  
-- 🐍 Automating tasks using Python  
+- ☕ Java Backend Development
+- 🚀 Spring Boot & Microservices
+- 🔗 RESTful API Development
+- 📨 Apache Kafka & Event-Driven Architecture
+- 🗄️ MySQL, JPA & Hibernate
+- 🔐 Spring Security, JWT & OAuth 2.0
+- ☁️ AWS Cloud & Application Deployment
+- 🐳 Docker & Kubernetes
+- ⚙️ CI/CD with Jenkins
+- 🧩 System Design & Distributed Systems
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 🔹 Networking
-- TCP/IP, Subnetting, Routing
-- OSPF, EIGRP, STP, VLAN
-- WAN, NAT, PAT, VRF
-- Network Troubleshooting
+### 🔹 Programming
+- Java 8 / 17
+- SQL
+- Object-Oriented Programming
+- Data Structures & Algorithms
 
-### 🔹 Network & Security
-- FortiGate & Palo Alto Firewalls (Lab Practice)
-- IPsec & SSL VPN
-- IDS / IPS Concepts
-- Email & Web Security (ESA, WSA)
-- Zero Trust & SASE (Basics)
+### 🔹 Backend Development
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Hibernate
+- JPA
+- RESTful APIs
+- Microservices
 
-### 🔹 Cloud & Infrastructure
-- AWS VPC, IAM, EC2 (Hands-On)
-- Security Groups & NACL
-- Cloud VPN & Hybrid Connectivity
-- Logging & Monitoring
+### 🔹 Messaging & Distributed Systems
+- Apache Kafka
+- Event-Driven Architecture
+- Saga Pattern
+- Circuit Breaker Pattern
+- Distributed Systems
 
-### 🔹 SOC & Monitoring
-- SIEM Basics (Splunk)
-- Log Analysis
-- Incident Handling (Foundations)
-- Threat Detection (Beginner Level)
+### 🔹 Databases
+- MySQL
+- SQL
+- Database Design
+- Query Optimization
+- Hibernate / JPA
 
-### 🔹 Automation
-- Python Scripting
-- Network Automation Basics
-- API Integration (Introductory)
+### 🔹 Security
+- Spring Security
+- JWT Authentication
+- OAuth 2.0
+- Role-Based Access Control (RBAC)
 
----
+### 🔹 Cloud & DevOps
+- AWS EC2
+- AWS S3
+- AWS RDS
+- AWS CloudWatch
+- AWS IAM
+- Docker
+- Kubernetes
+- Jenkins
+- Git & GitHub
+- Maven
 
-## 🧰 Tools & Platforms
-
-### 🔹 Networking & Security Tools
-- FortiGate Firewall  
-- Palo Alto Firewall  
-- Wireshark  
-- Nmap  
-- OpenVPN  
-
-### 🔹 Lab & Virtualization
-- Cisco Packet Tracer  
-- GNS3  
-- EVE-NG  
-- VMware  
-- VirtualBox  
-
-### 🔹 Operating Systems
-- Linux (Ubuntu, Kali)  
-- Windows  
-
----
-
-## 📂 Hands-On Labs & Projects
-
-✔ Firewall Policy Configuration Labs  
-✔ Site-to-Site & Remote Access VPN Labs  
-✔ Secure AWS VPC Practice  
-✔ SIEM Log Monitoring Exercises  
-✔ Network Automation Scripts  
-✔ Email Security Setup Practice  
-
-All projects focus on learning-by-doing and real-world scenarios.
+### 🔹 Testing & Development Tools
+- JUnit 5
+- Mockito
+- Postman
+- Swagger / OpenAPI
+- IntelliJ IDEA
+- Eclipse
 
 ---
 
-## 📚 Learning & Development
+## 📂 Featured Projects
 
-- CCNP-Level Networking Preparation  
-- Cloud Security & AWS Practice Labs  
-- Multi-Vendor Firewall Training  
-- SOC Monitoring Practice  
-- Continuous Self-Learning  
+### 🛒 CloudCart – E-Commerce Backend System
+
+**Tech Stack:** Java, Spring Boot, Microservices, MySQL, Apache Kafka
+
+- Developed a scalable e-commerce backend using Spring Boot and Microservices.
+- Built independent services for Product, Cart, Order, Payment, and User Management.
+- Developed secure RESTful APIs for order and payment workflows.
+- Implemented authentication and authorization using Spring Security and JWT.
+- Integrated Apache Kafka for asynchronous communication between services.
+- Implemented validation, exception handling, database relationships, and query optimization.
+- Added unit and integration testing using JUnit and Mockito.
 
 ---
 
+### 🏥 Doctor Appointment Backend System
 
+**Tech Stack:** Java, Spring Boot, Microservices, MySQL, Apache Kafka
 
-## 📈 Contribution Graph
+- Developed backend services for Doctor, Patient, Appointment, Booking, and Payment management.
+- Designed REST APIs for appointment scheduling and booking workflows.
+- Integrated Apache Kafka for asynchronous booking confirmation and notification workflows.
+- Implemented Spring Security for secure API communication.
+- Added centralized exception handling and request validation.
+- Created unit and integration tests using JUnit and Mockito.
+
+---
+
+### 🔐 API Gateway & Authentication Service
+
+**Tech Stack:** Java, Spring Boot, Spring Security, MySQL, Hibernate, JPA
+
+- Developed a centralized API Gateway for communication between microservices.
+- Implemented JWT-based authentication and role-based authorization.
+- Built REST APIs for user registration, login, and token management.
+- Used Hibernate and JPA for database persistence.
+- Developed unit tests using JUnit and Mockito.
+
+---
+
+## 🧠 Backend Concepts I Practice
+
+- OOP & SOLID Principles
+- Exception Handling
+- REST API Design
+- Authentication & Authorization
+- Microservices Architecture
+- Event-Driven Architecture
+- Database Optimization
+- API Gateway
+- Distributed Systems
+- Saga Pattern
+- Circuit Breaker Pattern
+- Caching Concepts
+- Multithreading & Concurrency
+- System Design
+- Design Patterns
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Java
+- Spring Boot
+- Spring Security
+- Microservices
+- Apache Kafka
+- System Design
+- AWS
+- Docker & Kubernetes
+- Data Structures & Algorithms
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshusahu-1&bg_color=0d1117&color=ffffff&line=5cf4e2&point=f2e1ff&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
-  
+
+---
+
 ## 🤝 Open to Opportunities
 
-I am actively looking for **entry-level roles, internships, and trainee positions** in:
+I am interested in opportunities related to:
 
-- Network Security  
-- Cloud Security  
-- SOC / SIEM Operations  
-- Infrastructure Security  
+- Java Backend Developer
+- Spring Boot Developer
+- Backend Engineer
+- Microservices Developer
+- Software Engineer
+- Java Developer
 
-I am eager to learn, contribute, and grow with a strong technical team.
+I am looking forward to working on challenging backend systems, improving my engineering skills, and contributing to scalable software solutions.
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/himanshu-sahu-" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
